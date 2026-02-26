@@ -70,10 +70,39 @@ Widget utama yang digunakan dalam aplikasi ini antara lain:
 ## 📂 Struktur Folder
 
 lib/
+
 ├── main.dart
+
 ├── home_page.dart
+
 ├── form_page.dart
+
 └── detail_page.dart
 
-Tampilan UI
+
+# Tampilan UI
+
+# Bagian Awal
+
+Klik Button Plus(+) dibawah kanan untuk menambah pesanan
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1829839e-dbdf-4129-a901-fd832611f578" />
+
+# Tampilan nambah pesanan
+
+Dibagian ini bisa menambah nama pelanggan,jenis soft cookies,jumlah soft cookies dan harga per pcs, jika pembeli memesan lebih dari satu jenis bisa memilih button tambah varian dan bisa mengisi jenis varian yang lain beserta jumlah dan harga per pcs nya.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4a031be7-d5ec-4e9e-87fa-2d027b025156" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/56be4fd9-b89c-4d96-9695-9e95a5d1b165" />
+
+# Melihat Daftar Pesanan
+
+Dibagian ini bisa melihat detail pesanan serta total harga pesanan
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b639b3e5-d7ff-44d0-93ee-96fd5ab1f14e" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/79da64c8-d60b-4791-ab9c-abcceda32dcf" />
+
+
 
